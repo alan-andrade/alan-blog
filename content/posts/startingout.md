@@ -6,4 +6,6 @@ draft: false
 
 This is the first post running on IPFS deployed through Fleek.
 
+It took me over 4 hours.
+
 More to come.
